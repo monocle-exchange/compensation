@@ -1,4 +1,5 @@
 # Compensation
+
 A place for contributors to the Monocle open source project to submit compensation requests work done.
 
 ## Context
@@ -19,7 +20,7 @@ This helps us achieve the following:
 
 # Role compensation
 
-Most of the contributors receivng compensation from Monocle open source project will be performing definded [roles](https://github.com/monocle-exchange/roles/).
+Most of the contributors receiving compensation from Monocle open source project will be performing [defended roles](https://github.com/monocle-exchange/roles/).
 
 ## Types of roles compensated
 
@@ -54,12 +55,12 @@ The Monocle open source project compensates contributors for the roles responsib
 
 This repository is for the following:
 
-- Contributors to sumbit compensation requests
+- Contributors to submit compensation requests
 - Discussion, if needed, around any compensation requests to take place
 - Creating a clear process for contributors to get paid in Monero
 - Creating a clear process for payments to be made with no errors
-- Proivde contributors, users and anyone else an easy way to see who is being paid for what, and how much.
-- Porvide interested users with an interest in how exchanges operate to see inside the functioning of an exchange
+- Provide contributors, users and anyone else an easy way to see who is being paid for what, and how much.
+- Provide interested users with an interest in how exchanges operate to see inside the functioning of an exchange
 - Provide potential contributors a way to see what is the expected compensation might be prior to making the commitment to get involved 
 
-Only contributors should make new issues on this repository, or at least if someone has not contributed anything for Monocle they they likely will not need to request compensation.
+Only contributors should make new issues on this repository, or at least, if someone has not contributed anything for Monocle they they likely will not need to make a request compensation issue.
