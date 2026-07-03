@@ -4,9 +4,9 @@ A place for contributors to the Monocle open source project to submit compensati
 
 ## Context
 
-Monocle Exchange relies on contributors that give up their time, expertise and resources to operate an effective Haveno network. As a result when we are genrating enough revenue in trade fees they will receive compensation.
+Monocle Exchange relies on contributors that give up their time, expertise and resources to operate an effective Haveno network. As a result, when we are generating enough revenue in trade fees they will receive compensation.
 
-Initially this repository will just be non active for a while until contributors start receiving compensation.
+Initially this repository will just be non-active for a while until contributors start receiving compensation.
 
 ## Goals
 
@@ -75,4 +75,4 @@ This repository is for the following:
 - Provide interested users with an interest in how exchanges operate to see inside the functioning of an exchange
 - Provide potential contributors a way to see what is the expected compensation might be prior to making the commitment to get involved 
 
-Only contributors should make new issues on this repository, or at least, if someone has not contributed anything for Monocle they they likely will not need to make a request compensation issue.
+Only contributors should make new issues on this repository, or at least, if someone has not contributed anything for Monocle they likely will not need to make a request compensation issue.
