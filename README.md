@@ -49,6 +49,18 @@ Network facing roles compensated include the following:
 - [Price node operators](https://github.com/monocle-exchange/roles/issues/3)
 - [Markets operator](https://github.com/monocle-exchange/roles/issues/6)
 
+### Application facing roles compensated
+
+Network facing roles compensated include the following:
+
+- [Open source application maintainers](https://github.com/monocle-exchange/roles/issues/9)
+
+### Contributor facing roles compensated
+
+Contributor facing roles compensated include the following:
+
+- [Open source community managers](https://github.com/monocle-exchange/roles/issues/8)
+
 The Monocle open source project compensates contributors for the roles responsibilities they take on to ensure smooth operations of our Exchange functions.
 
 ## How this Role repository works
