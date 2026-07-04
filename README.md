@@ -58,14 +58,16 @@ We use flat-rate structures for our defined project roles.
 * **Arbitrators:** $20 USD per arbitration case *(expected ticket response time within 24 hours)*.
 
 ### Network-Facing Roles
-* **Monero Node Operators:** $50 USD per node, per month *(operators are expected to run multiple nodes)*.
+* **Monero Node Operators:** $50 USD per node, per month 
 * **Seed Node Operators:** $100 USD per node, per month.
 * **Price Node Operators:** $100 USD per node, per month.
 * **Markets Operator:** $50 USD per month.
 
+> Operators are expected to run multiple nodes.
+
 ### Application & Contributor-Facing Roles
 * **Open-Source Application Maintainers:** $500 USD per month.
-* **Open-Source Community Managers:** $500 USD per month.
+* **Open-Source Community Managers:** $500 USD per month. *(minimum 10 hours of active community mangement per week required)*.
 
 ---
 
