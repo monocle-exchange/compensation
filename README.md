@@ -79,7 +79,7 @@ We believe that while users of Monocle Exchange deserve strict transaction priva
 When requesting payment, contributors must open a GitHub issue containing:
 1. **GitHub Username:** This must match the handle you use on our other platforms (SimpleX, Matrix) so peers can verify your identity and work history.
 2. **Role Performed:** The specific role fulfilled (e.g., support team member, Monero node provider).
-3. **USD Amount:** The flat-rate amount previously agreed upon for your role.
+3. **USD Amount:** The flat-rate amount for your role.
 4. **Monero Address:** The XMR address where you wish to receive funds.
 
 ### Review & Consensus
@@ -88,7 +88,7 @@ Once a payment request is opened, team members have a window to add positive fee
 Once the community reaches a clear consensus, the open-source community managers will process the transaction. 
 
 ### Final Verification
-To maintain accountability, the community manager will finalize the request by replying with the **Transaction ID (TxID)** and the **Tx Secret Key**. This allows anyone to cryptographically confirm that the payment was successfully sent and received without exposing user identity. Contributors must accept this public transparency workflow prior to undertaking any paid tasks.
+To maintain accountability, the community manager will finalize the request by replying with the **Transaction ID (TxID)** and the **Tx Secret Key**. This allows anyone to cryptographically confirm that the payment was successfully sent and received. Contributors must accept this public transparency workflow prior to undertaking any paid tasks.
 
 ### Monthly Timeline
 Payments are handled on a monthly cycle. Compensation is processed at the end of the following month for the work completed during the previous month.
@@ -101,7 +101,7 @@ Payments are handled on a monthly cycle. Compensation is processed at the end of
 
 ---
 
-# Contributor Guidelines
+# New Contributor Guidelines
 
 Welcome to Monocle! Below are our core operational expectations, core values, and onboarding pipelines.
 
@@ -131,7 +131,7 @@ Prospective contributors seeking ongoing paid roles must complete a **one-month 
 Can a privacy-focused exchange operate transparently? We think so. Monocle is building an exchange operated entirely by pseudonymous entities (nyms) while maintaining institutional-grade public trust.
 
 * **Strict Anonymity:** We expect all contributors to operate under pseudonyms.
-* **Zero PII Collection:** We value your privacy and do not collect any personal identity information.
+* **No KYC Collection:** We value your privacy and do not collect any personal identity information.
 * **Required Data:** We only require your active nym handle and a Monero (XMR) address to issue compensation.
 
 If your pseudonym has a proven track record in the Monero space and you share our core architectural values, reach out to us—we want to earn the community's trust alongside you.
@@ -141,6 +141,6 @@ If your pseudonym has a proven track record in the Monero space and you share ou
 ## 🛠️ How this Repository Works
 
 This repository is designed to facilitate the following activities:
-* **Submission of Monthly Invoices:** Translating completed tasks into transparent milestone requests.
+* **Submission of Monthly Invoices:** Translating completed tasks into transparent proof of payment.
 * **Peer-to-Peer Auditing:** Creating an open space for code, node, and support verification.
 * **Financial Cryptographic Verification:** Serving as a historical ledger of proof-of-payment tx keys.
